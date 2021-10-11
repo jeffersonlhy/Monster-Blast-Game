@@ -54,8 +54,7 @@ $ ./monstergame
 - "setup.h" includes the function for preventing linux from buffering keystrokes.
 - "display.h" includes the functions for displaying the monster graphics.
 - "colour.h" includes the functions for styling.
-- "main.cpp" includes all the header files mentioned above.
-These matches the code requirement 5. 
+- "main.cpp" includes all the header files mentioned above. 
 
     
  
